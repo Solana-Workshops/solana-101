@@ -4,6 +4,7 @@
 | Link | Instructor | Event |
 | ---- | ---------- | ----- |
 | [<img src="https://raw.githubusercontent.com/Solana-Workshops/.github/main/.docs/youtube-icon.png" alt="youtube" width="20" align="center"/> Recording](https://youtu.be/wtW_7wTw6X8) | Joe Caulfield | Hacker House Melbourne 2023 |
+| [<img src="https://raw.githubusercontent.com/Solana-Workshops/.github/main/.docs/youtube-icon.png" alt="youtube" width="20" align="center"/> Recording](https://youtu.be/56Erql9229E) | Joe Caulfield | Hacker House Ho Chi Minh 2023 |
 
 This workshop is just a slideshow presentation on Solana topics, and the slides can be found below.
 
